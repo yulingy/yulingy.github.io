@@ -1,0 +1,64 @@
+# jemdoc: menu{menu}{research.html}
+= Papers
+
+== 2023
+
+- [https://arxiv.org/abs/2304.11160 The Isotonic Mechanism for Exponential Family Estimation] \n
+*Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
+
+- [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
+Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
+
+- [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
+*Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
+Under major revision at /Annals of Statistics/ \n
+
+== 2022
+
+- [https://arxiv.org/abs/2206.04044 Model-Based Reinforcement Learning Is Minimax-Optimal for Offline Zero-Sum Markov Games] \n
+*Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n
+Under major revision at /Operations Research/ \n
+
+- [https://arxiv.org/abs/2203.07368 The Efficacy of Pessimism in Asynchronous Q-learning] \n
+*Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n 
+Under revision at /IEEE Transactions on Information Theory/ \n
+
+== 2021
+
+- [https://arxiv.org/abs/2107.12365 Inference for Heteroskedastic PCA with Missing Data] \n
+*Yuling Yan*, Yuxin Chen, Jianqing Fan \n 
+Under major revision at /Annals of Statistics/ \n
+*2022 ASA Statistical Learning and Data Science Best Student Paper Award* \n
+
+- [https://arxiv.org/abs/2105.14016 Sample-Efficient Reinforcement Learning for Linearly-Parameterized MDPs with a Generative Model] \n
+Bingyan Wang\*, *Yuling Yan*\*, Jianqing Fan *(\*=equal contribution)* \n
+/Neural Information Processing Systems (NeurIPS)/, 2021\n
+
+== 2020
+
+- [https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1956501 Convex and Nonconvex Optimization Are Both Minimax-Optimal for Noisy Blind Deconvolution] \n
+Yuxin Chen, Jianqing Fan, Bingyan Wang, *Yuling Yan (alphabetical order)* \n 
+/Journal of the American Statistical Association, vol. 118, no. 542, pp. 858-868, 2023/ \n
+
+- [https://proceedings.neurips.cc/paper/2020/hash/f40ee694989b3e2161be989e7b9907fc-Abstract.html Efficient Clustering for Stretched Mixtures: Landscape and Optimality] \n
+Kaizheng Wang, *Yuling Yan*, Mateo Díaz \n 
+/Neural Information Processing Systems (NeurIPS)/, 2020\n
+
+- [https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Bridging-convex-and-nonconvex-optimization-in-robust-PCA--Noise/10.1214/21-AOS2066.full Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data] \n
+Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n 
+/Annals of Statistics, vol. 49, no. 5, pp. 2948-2971, 2021/ \n
+
+== 2019
+
+- [https://www.pnas.org/content/pnas/116/46/22931.full.pdf Inference and Uncertainty Quantification for Noisy Matrix Completion] \n
+Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n
+/Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/ \n
+
+- [https://epubs.siam.org/doi/pdf/10.1137/19M1290000 Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization] \n
+Yuxin Chen, Yuejie Chi, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n 
+/SIAM Journal on Optimization, vol. 30, no. 4, pp. 3098-3121, 2020/ \n
+
+== 2018
+
+- [https://projecteuclid.org/euclid.ejs/1586397684 Asymptotic Seed Bias in Respondent-driven Sampling] \n *Yuling Yan*, Bret Hanlon, Sebastien Roch, Karl Rohe \n
+/Electronic Journal of Statistics, vol. 14, no. 1, pp. 1577-1610, 2020/ \n

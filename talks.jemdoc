@@ -1,0 +1,45 @@
+# jemdoc: menu{menu}{talks.html}
+= Talks and Poster Presentations
+
+== Talks
+. Owner-Assisted Mechanisms for Exponential Family Estimation
+.. ICSA Applied Statistics Symposium, Ann Arbor, MI, Jun 2023
+. Inference and Uncertainty Quantification for Low Rank Models
+.. Department Seminar, New York University Stern School of Business, Feb 2023
+.. Econometrics and Statistics Workshop, University of Chicago Booth School of Business, Feb 2023
+.. Department Seminar, Department of Statistics, Rutgers University, Jan 2023
+.. Department Seminar, Department of Statistics, University of Wisconsin-Madison, Jan 2023
+.. Department Seminar, Department of Statistics, UC Davis, Jan 2023
+.. Young Data Science Researcher Seminar, ETH Zurich, Dec 2022
+.. Department Seminar, Department of Data Science and Operations, USC Marshall School of Business, Dec 2022
+.. Department Colloquia, Department of Mathematics, University of Maryland, Nov 2022
+. Model-based Reinforcement Learning for Offline Zero-Sum Markov Games
+.. INFORMS Annual Meeting, Indianapolis, IN, Oct 2022
+.. ORIE Young Researchers Workshop, Cornell University, Oct 2022
+. Inference for Heteroskedastic PCA with Missing Data
+.. CMStatistics, King's College London, Dec 2022
+.. Lunch Seminar, Department of Statistics, Harvard University, Oct 2022
+.. INFORMS Annual Meeting, Indianapolis, IN, Oct 2022
+.. Joint Statistical Meeting, Washington DC, Aug 2022
+.. Department Seminar, Department of Statistics and Applied Probability, UC Santa Barbara, Mar 2022
+. Bridging convex and nonconvex optimization in robust PCA: Noise, outliers, and missing data
+.. INFORMS Optimization Society Meeting, Greenville, SC, Mar 2022
+.. Two Sigma Ph.D. Research Symposium, online, Dec 2020
+.. INFORMS Annual Meeting, online, Nov 2020
+.. ORFE graduate student seminar, Princeton University, Oct 2020
+
+== Poster Presentation
+. Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow
+.. Conference on Statistical Foundations of Data Science and their Applications, Princeton University, May 2023
+.. Conference on Recent Advances in Statistics and Data Science, Rutgers University, May 2023 (*Gold Medal Award*)
+. Inference for Heteroskedastic PCA with Missing Data
+.. ONR Program Review Meeting, Stanford University, Apr 2023
+.. Workshop on Statistics in the Big Data Era, Simons Institute for the Theory of Computing, UC Berkeley, Jun 2022 (*Best Poster Award*)
+.. Conference on New Advances in Statistics and Data Science Conference, Honolulu, Hawaii, May 2022 (*Best Poster Award*)
+.. Conference on Advances in Bayesian and Frequentist Theory and Methods, Department of Statistics, Rutgers University, Apr 2022
+.. The Workshop on Perspectives in Statistical Modeling and Inference, The Wharton School, University of Pennsylvania, Dec 2021
+.. ORIE Young Researchers Workshop, Cornell University, Oct 2021
+. Inference and uncertainty quantification for noisy matrix completion
+.. ONR Program Review Meeting, Duke University, Oct 2019
+. Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization
+.. The Fourth Workshop on Higher-Order Asymptotics and Post-Selection Inference, Washington University in St. Louis, Aug 2019.
