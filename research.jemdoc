@@ -1,5 +1,5 @@
 # jemdoc: menu{menu}{research.html}
-= Papers
+= Papers (by year on arXiv)
 
 == 2023
 
@@ -12,6 +12,7 @@ Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
 - [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
 *Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
 Under major revision at /Annals of Statistics/ \n
+
 
 == 2022
 
@@ -62,3 +63,8 @@ Yuxin Chen, Yuejie Chi, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)*
 
 - [https://projecteuclid.org/euclid.ejs/1586397684 Asymptotic Seed Bias in Respondent-driven Sampling] \n *Yuling Yan*, Bret Hanlon, Sebastien Roch, Karl Rohe \n
 /Electronic Journal of Statistics, vol. 14, no. 1, pp. 1577-1610, 2020/ \n
+
+== Others
+- [https://proquest.com/docview/2871484696 Statistical Learning and Optimal Decision Making under Uncertainty] \n
+*Yuling Yan* \n
+Ph.D. thesis, Princeton University, 2023
