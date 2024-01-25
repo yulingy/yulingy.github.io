@@ -1,26 +1,34 @@
 # jemdoc: menu{menu}{research.html}
 = Papers (by year on arXiv)
 
+== 2024
+
+- [https://arxiv.org/abs/2401.13665 Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach] \n
+*Yuling Yan*, Martin J. Wainwright \n
+arXiv preprint arXiv:2401.13665, 2024 \n
+
 == 2023
 
 - [https://arxiv.org/abs/2304.11160 The Isotonic Mechanism for Exponential Family Estimation] \n
 *Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
+arXiv preprint arXiv:2304.11160, 2023 \n
 
 - [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
+arXiv preprint arXiv:2304.07278, 2023 \n
 
 - [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
 *Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
-Under major revision at /Annals of Statistics/ \n
+arXiv preprint arXiv:2301.01766, under major revision at /Annals of Statistics/ \n
 
 
 == 2022
 
 - [https://arxiv.org/abs/2206.04044 Model-Based Reinforcement Learning Is Minimax-Optimal for Offline Zero-Sum Markov Games] \n
 *Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n
-Under major revision at /Operations Research/ \n
+arXiv preprint arXiv:2206.04044, under major revision at /Operations Research/ \n
 
-- [https://arxiv.org/abs/2203.07368 The Efficacy of Pessimism in Asynchronous Q-learning] \n
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 The Efficacy of Pessimism in Asynchronous Q-learning] \n
 *Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n 
 /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/ \n
 
@@ -28,10 +36,10 @@ Under major revision at /Operations Research/ \n
 
 - [https://arxiv.org/abs/2107.12365 Inference for Heteroskedastic PCA with Missing Data] \n
 *Yuling Yan*, Yuxin Chen, Jianqing Fan \n 
-Under minor revision at /Annals of Statistics/ \n
+arXiv preprint arXiv:2107.12365, under minor revision at /Annals of Statistics/ \n
 *2022 ASA Statistical Learning and Data Science Best Student Paper Award* \n
 
-- [https://arxiv.org/abs/2105.14016 Sample-Efficient Reinforcement Learning for Linearly-Parameterized MDPs with a Generative Model] \n
+- [https://proceedings.neurips.cc/paper/2021/hash/c21f4ce780c5c9d774f79841b81fdc6d-Abstract.html Sample-Efficient Reinforcement Learning for Linearly-Parameterized MDPs with a Generative Model] \n
 Bingyan Wang\*, *Yuling Yan*\*, Jianqing Fan *(\*=equal contribution)* \n
 /Neural Information Processing Systems (NeurIPS)/, 2021\n
 
