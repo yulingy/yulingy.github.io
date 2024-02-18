@@ -9,28 +9,27 @@ arXiv preprint arXiv:2401.13665, 2024 \n
 
 == 2023
 
-- [https://arxiv.org/abs/2304.11160 The Isotonic Mechanism for Exponential Family Estimation] \n
-*Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
-arXiv preprint arXiv:2304.11160, 2023 \n
+- [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
+*Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
+arXiv preprint arXiv:2301.01766, under major revision at /Annals of Statistics/ \n
 
 - [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
 arXiv preprint arXiv:2304.07278, 2023 \n
 
-- [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
-*Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
-arXiv preprint arXiv:2301.01766, under major revision at /Annals of Statistics/ \n
-
+- [https://arxiv.org/abs/2304.11160 The Isotonic Mechanism for Exponential Family Estimation] \n
+*Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
+arXiv preprint arXiv:2304.11160, 2023 \n
 
 == 2022
-
-- [https://arxiv.org/abs/2206.04044 Model-Based Reinforcement Learning Is Minimax-Optimal for Offline Zero-Sum Markov Games] \n
-*Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n
-arXiv preprint arXiv:2206.04044, accepted to /Operations Research/, 2024 \n
 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 The Efficacy of Pessimism in Asynchronous Q-learning] \n
 *Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n 
 /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/ \n
+
+- [https://arxiv.org/abs/2206.04044 Model-Based Reinforcement Learning Is Minimax-Optimal for Offline Zero-Sum Markov Games] \n
+*Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n
+arXiv preprint arXiv:2206.04044, accepted to /Operations Research/, 2024 \n
 
 == 2021
 
@@ -45,6 +44,10 @@ Bingyan Wang\*, *Yuling Yan*\*, Jianqing Fan *(\*=equal contribution)* \n
 
 == 2020
 
+- [https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Bridging-convex-and-nonconvex-optimization-in-robust-PCA--Noise/10.1214/21-AOS2066.full Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data] \n
+Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n 
+/Annals of Statistics, vol. 49, no. 5, pp. 2948-2971, 2021/ \n
+
 - [https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1956501 Convex and Nonconvex Optimization Are Both Minimax-Optimal for Noisy Blind Deconvolution] \n
 Yuxin Chen, Jianqing Fan, Bingyan Wang, *Yuling Yan (alphabetical order)* \n 
 /Journal of the American Statistical Association, vol. 118, no. 542, pp. 858-868, 2023/ \n
@@ -53,9 +56,6 @@ Yuxin Chen, Jianqing Fan, Bingyan Wang, *Yuling Yan (alphabetical order)* \n
 Kaizheng Wang, *Yuling Yan*, Mateo Díaz \n 
 /Neural Information Processing Systems (NeurIPS)/, 2020\n
 
-- [https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Bridging-convex-and-nonconvex-optimization-in-robust-PCA--Noise/10.1214/21-AOS2066.full Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data] \n
-Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n 
-/Annals of Statistics, vol. 49, no. 5, pp. 2948-2971, 2021/ \n
 
 == 2019
 
