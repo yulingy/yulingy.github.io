@@ -11,19 +11,17 @@ Yuxin Chen, Yuejie Chi, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)*
 Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n 
 /Annals of Statistics, vol. 49, no. 5, pp. 2948-2971, 2021/ \n
 
-- [https://proceedings.neurips.cc/paper/2020/hash/f40ee694989b3e2161be989e7b9907fc-Abstract.html Efficient Clustering for Stretched Mixtures: Landscape and Optimality] \n
-Kaizheng Wang, *Yuling Yan*, Mateo Díaz \n 
-/Neural Information Processing Systems (NeurIPS)/, 2020\n
-
 - [https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1956501 Convex and Nonconvex Optimization Are Both Minimax-Optimal for Noisy Blind Deconvolution] \n
 Yuxin Chen, Jianqing Fan, Bingyan Wang, *Yuling Yan (alphabetical order)* \n 
 /Journal of the American Statistical Association, vol. 118, no. 542, pp. 858-868, 2023/ \n
 
-- [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
-*Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
-arXiv preprint arXiv:2301.01766, under major revision at /Annals of Statistics/ \n
+- [https://proceedings.neurips.cc/paper/2020/hash/f40ee694989b3e2161be989e7b9907fc-Abstract.html Efficient Clustering for Stretched Mixtures: Landscape and Optimality] \n
+Kaizheng Wang, *Yuling Yan*, Mateo Díaz \n 
+/Neural Information Processing Systems (NeurIPS)/, 2020\n
 
-== Inference and uncertainty quantification
+*Key words:* /nonconvex optimization, convex relaxation, optimality, matrix completion, robust PCA, clustering / \n
+
+== Inference and uncertainty quantification for low-rank models
 
 - [https://www.pnas.org/content/pnas/116/46/22931.full.pdf Inference and Uncertainty Quantification for Noisy Matrix Completion] \n
 Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n
@@ -36,6 +34,23 @@ Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n
 - [https://arxiv.org/abs/2401.13665 Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach] \n
 *Yuling Yan*, Martin J. Wainwright \n
 arXiv preprint arXiv:2401.13665, 2024 \n
+
+*Key words:* /entrywise confidence intervals, optimization methods, spectral methods, matrix completion, PCA, causal panel data/ \n
+
+== Learning in the space of probability measures
+
+- [https://arxiv.org/abs/2301.01766 Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
+*Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
+arXiv preprint arXiv:2301.01766, under major revision at /Annals of Statistics/ \n
+
+- [https://arxiv.org/abs/2405.14861 Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models] \n
+Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
+arXiv preprint arXiv:2405.14861, 2024 \n
+
+- [https://yulingy.github.io/research_by_topic.html Gaussian mixture layers for neural networks] \n
+Sinho Chewi, Philippe Rigollet, *Yuling Yan (alphabetical order)* \n
+
+*Key words:* /optimal transport, Wasserstein(-Fisher-Rao) gradient flow, nonparametric MLE, diffusion models, deep learning/ \n
 
 == Statistical reinforcement learning and decision making
 
@@ -55,6 +70,8 @@ To appear in /Operations Research/, 2024 \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
 arXiv preprint arXiv:2304.07278, 2023, accepted in part to /Conference on Learning Theory (COLT)/, 2024 \n
 
+*Key words:* /offline RL, multi-agent RL, Q-learning, model-based approaches/ \n
+
 == Applications to economics and social sciences
 
 - [https://projecteuclid.org/euclid.ejs/1586397684 Asymptotic Seed Bias in Respondent-driven Sampling] \n *Yuling Yan*, Bret Hanlon, Sebastien Roch, Karl Rohe \n
@@ -63,6 +80,9 @@ arXiv preprint arXiv:2304.07278, 2023, accepted in part to /Conference on Learni
 - [https://arxiv.org/abs/2304.11160 The Isotonic Mechanism for Exponential Family Estimation] \n
 *Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
 arXiv preprint arXiv:2304.11160, under major revision at /Journal of the Royal Statistical Society: Series B/ \n
+
+*Key words:* /mechanism design, causal inference, computational social sciences/ \n
+
 
 
 
