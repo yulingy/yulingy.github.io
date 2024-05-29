@@ -1,5 +1,5 @@
-# jemdoc: menu{menu}{research.html}
-= Papers (by topic)
+# jemdoc: menu{menu}{research_by_topic.html}
+= Research (by topic)
 
 == Optimization methods for statistical estimation
 
@@ -35,7 +35,7 @@ Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n
 *Yuling Yan*, Martin J. Wainwright \n
 arXiv preprint arXiv:2401.13665, 2024 \n
 
-*Key words:* /entrywise confidence intervals, optimization methods, spectral methods, matrix completion, PCA, causal panel data/ \n
+*Key words:* /entrywise confidence intervals, optimization methods, spectral methods, optimality, matrix completion, PCA, causal panel data/ \n
 
 == Learning in the space of probability measures
 
@@ -47,10 +47,7 @@ arXiv preprint arXiv:2301.01766, under major revision at /Annals of Statistics/ 
 Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
 arXiv preprint arXiv:2405.14861, 2024 \n
 
-- [https://yulingy.github.io/research_by_topic.html Gaussian mixture layers for neural networks] \n
-Sinho Chewi, Philippe Rigollet, *Yuling Yan (alphabetical order)* \n
-
-*Key words:* /optimal transport, Wasserstein(-Fisher-Rao) gradient flow, nonparametric MLE, diffusion models, deep learning/ \n
+*Key words:* /optimal transport, Wasserstein(-Fisher-Rao) gradient flow, nonparametric MLE, diffusion models/ \n
 
 == Statistical reinforcement learning and decision making
 
@@ -70,7 +67,7 @@ To appear in /Operations Research/, 2024 \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
 arXiv preprint arXiv:2304.07278, 2023, accepted in part to /Conference on Learning Theory (COLT)/, 2024 \n
 
-*Key words:* /offline RL, multi-agent RL, Q-learning, model-based approaches/ \n
+*Key words:* /offline RL, multi-agent RL, sample complexity, optimality/ \n
 
 == Applications to economics and social sciences
 
@@ -81,7 +78,7 @@ arXiv preprint arXiv:2304.07278, 2023, accepted in part to /Conference on Learni
 *Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
 arXiv preprint arXiv:2304.11160, under major revision at /Journal of the Royal Statistical Society: Series B/ \n
 
-*Key words:* /mechanism design, causal inference, computational social sciences/ \n
+*Key words:* /mechanism design, causal inference, public policy/ \n
 
 
 
