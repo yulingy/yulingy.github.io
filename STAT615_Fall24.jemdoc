@@ -11,12 +11,15 @@ This master-level course introduces mathematical theories and statistical concep
 
 == Teaching Staffs
 - Instructor: [index.html Yuling Yan] (email: /yuling.yan/ \[@\] wisc \[DOT\] edu)
--- Office hours: Wednesday 2:30 PM - 3:30 PM
+-- Office hours: Wednesday 2:30 PM - 3:30 PM, 7277 MSC
 - Teaching assistant: Soham Ghosh (email: /sghosh39/ \[@\] wisc \[DOT\] edu)
--- Office hours: Monday 1:00 PM - 2:00 PM
+-- Office hours: Monday 1:00 PM - 2:00 PM, 1217C MSC
+
+== Slides
+- Lecture 1: [STAT615/classification_Fall2024.pdf Classification] (Sep 5)
 
 == References
 - [https://hastie.su.domains/ElemStatLearn/ The Elements of Statistical Learning], Jerome Friedman, Robert Tibshirani, and Trevor Hastie, 2009
 - [https://www.routledge.com/Statistical-Foundations-of-Data-Science/Fan-Li-Zhang-Zou/p/book/9781466510845 Statistical Foundations of Data Science], Jianqing Fan, Runze Li, Cun-Hui Zhang, Hui Zou, 2020
-- [https://www.cambridge.org/US/universitypress/subjects/statistics-probability/statistical-theory-and-methods/high-dimensional-statistics-non-asymptotic-viewpoint?format=HB High-dimensional statistics: A non-asymptotic viewpoint], Martin Wainwright, 2019.
-- [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html High-Dimensional Probability: An Introduction with Applications in Data Science], Roman Vershynin, 2018.
+- [https://www.cambridge.org/US/universitypress/subjects/statistics-probability/statistical-theory-and-methods/high-dimensional-statistics-non-asymptotic-viewpoint?format=HB High-dimensional statistics: A non-asymptotic viewpoint], Martin Wainwright, 2019
+- [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html High-Dimensional Probability: An Introduction with Applications in Data Science], Roman Vershynin, 2018
