@@ -24,6 +24,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 -- {{<u>Y. Yan</u>}}\*, K.~Wang\*, P.~Rigollet, [https://arxiv.org/abs/2301.01766 "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow,"] accepted to /Annals of Statistics/, 2024 
 -- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2405.14861 "Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models,"] 2024 (accepted in part to NeurIPS 2024)
 -- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2408.16765 "A Score-Based Density Formula, with Applications in Diffusion Generative Models,"] 2024
+-- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] 2024
 
 - *Inference and uncertainty quantification for low-rank models*
 -- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.pnas.org/content/pnas/116/46/22931.full.pdf "Inference and Uncertainty Quantification for Noisy Matrix Completion,"] /Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/
