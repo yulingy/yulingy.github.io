@@ -2,7 +2,7 @@
 = Yuling Yan
 
 ~~~
-{}{img_left}{Photo/yuling_yan.jpeg}{alt text}{280}{280}
+{}{img_left}{Photo/yuling_yan.jpeg}{alt text}{240}{240}
 
 Starting Aug 2024, I am an assistant professor in the [https://stat.wisc.edu Department of Statistics] at University of Wisconsin-Madison.
 
@@ -16,6 +16,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 
 *E-mail*: /yuling.yan/ \[@\] wisc \[DOT\] edu
 ~~~
+
 
 == Featured projects
 (\*=equal contribution, $\alpha$-$\beta$=alphabetical order)
@@ -39,11 +40,13 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 - *Statistical applications to social sciences*
 -- {{<u>Y. Yan</u>}}, W.~J.~Su, J.~Fan, [https://arxiv.org/abs/2304.11160 "The Isotonic Mechanism for Exponential Family Estimation,"] under major revision at /Journal of the Royal Statistical Society: Series B/, 2024
 -- B.~Su, J.~Zhang, N.~Collina, {{<u>Y. Yan</u>}}, D.~Li, K.~Cho, J.~Fan, A.~Roth, W.~J.~Su [https://arxiv.org/abs/2408.13430 "Analysis of the ICML 2023 Ranking Data: Can Authors' Opinions of Their Own Papers Assist Peer Review in Machine Learning?"] 2024
+-- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://yulingy.github.io "Inference in staggered adoption:  Effects of the Affordable Care Act,"] available upon request.
 
 - *Statistical foundations of offline reinforcement learning*
 -- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 "The Efficacy of Pessimism in Asynchronous Q-learning,"] /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/
 -- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0342 "Model-Based Reinforcement Learning for Offline Zero-Sum Markov Games,"] accepted to /Operations Research/, 2024
 -- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"] 2024 (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024])
+
 
 == Selected awards
 - IMS Lawrence D. Brown Award, 2024
