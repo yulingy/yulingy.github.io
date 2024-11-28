@@ -13,10 +13,13 @@ This master-level course introduces mathematical theories and statistical concep
 - Instructor: [index.html Yuling Yan] (email: /yuling.yan/ \[@\] wisc \[DOT\] edu)
 -- Office hours: Wednesday 2:30 PM - 3:30 PM, 7277 MSC
 - Teaching assistant: Soham Ghosh (email: /sghosh39/ \[@\] wisc \[DOT\] edu)
--- Office hours: Monday 1:00 PM - 2:00 PM, 1217C MSC
+-- Office hours: Monday 1:00 PM - 3:00 PM, 1217C MSC
 
 == Slides
-- Lecture 1: [STAT615/classification_Fall2024.pdf Classification] (Sep 5-26)
+- [STAT615/classification_Fall2024.pdf Classification: Part 1]
+- [STAT615/classification_Part_2_Fall2024.pdf Classification: Part 2]
+- [STAT615/regression_Fall2024.pdf Linear regression]
+- [STAT615/regression_Fall2024.pdf Nonparametric regression]
 
 == References
 - [https://hastie.su.domains/ElemStatLearn/ The Elements of Statistical Learning], Jerome Friedman, Robert Tibshirani, and Trevor Hastie, 2009
