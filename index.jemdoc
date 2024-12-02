@@ -23,7 +23,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 
 - *Causal inference under staggered adoption* 
 -- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
--- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://yulingy.github.io "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] available upon request.\n
+-- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [papers/causal_panel_obamacare.pdf "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
 ~~~
 {}{img_left}{figures/staggered.png}{ACA illustration}{880 px}{IMGLINKTARGET}
 ~~~
@@ -38,7 +38,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 ~~~
 
 - *Mechanism design for improving peer review*
--- {{<u>Y. Yan</u>}}, W.~J.~Su, J.~Fan, [https://arxiv.org/abs/2304.11160 "Isotonic Mechanism for Exponential Family Estimation in Machine Learning Peer Review,"] under major revision at /Journal of the Royal Statistical Society: Series B/, 2024
+-- {{<u>Y. Yan</u>}}, W.~J.~Su, J.~Fan, [papers/isotonic.pdf "Isotonic Mechanism for Exponential Family Estimation in Machine Learning Peer Review,"] under major revision at /Journal of the Royal Statistical Society: Series B (discussion paper track)/, 2024
 -- B.~Su, J.~Zhang, N.~Collina, {{<u>Y. Yan</u>}}, D.~Li, K.~Cho, J.~Fan, A.~Roth, W.~J.~Su [https://arxiv.org/abs/2408.13430 "Analysis of the ICML 2023 Ranking Data: Can Authors' Opinions of Their Own Papers Assist Peer Review in Machine Learning?"] 2024
 ~~~
 {}{img_left}{figures/isotonic.png}{Diffusion model}{920 px}{IMGLINKTARGET}
