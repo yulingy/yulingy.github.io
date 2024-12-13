@@ -23,7 +23,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 
 - *Causal inference under staggered adoption* 
 -- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
--- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [papers/causal_panel_obamacare.pdf "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
+-- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://arxiv.org/abs/2412.09482 "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
 ~~~
 {}{img_left}{figures/staggered.png}{ACA illustration}{880 px}{IMGLINKTARGET}
 ~~~
@@ -62,7 +62,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 
 == Selected awards
 - IMS Lawrence D. Brown Award, 2024
-- ICCM Best Thesis Award (Silver Medal), 2024
+- ICCM Best Thesis Award (Silver Medal, declined due to inability to attend the award ceremony), 2024
 - Norbert Wiener Postdoctoral Fellowship, MIT, 2023
 - Charlotte Elizabeth Procter Honorific Fellowship, Princeton University, 2022
 - ASA Statistical Learning and Data Science Best Student Paper Award, 2022
