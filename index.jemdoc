@@ -32,7 +32,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 -- {{<u>Y. Yan</u>}}\*, K.~Wang\*, P.~Rigollet, [https://arxiv.org/abs/2301.01766 "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow,"] /Annals of Statistics, vol. 52, no. 4, pp. 1774-1795, 2024/ 
 -- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://openreview.net/pdf?id=SnTxbQSrW7 "Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models,"] /NeurIPS 2024/
 -- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2408.16765 "A Score-Based Density Formula, with Applications in Diffusion Generative Models,"] 2024
--- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] 2024
+-- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] accepted in part to ICLR 2025
 ~~~
 {}{img_left}{figures/diffusion.png}{Diffusion model}{900 px}{IMGLINKTARGET}
 ~~~
