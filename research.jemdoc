@@ -5,7 +5,7 @@
 
 - [https://arxiv.org/abs/2409.18959 O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
 Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
-/accepted in part to International Conference on Learning Representations (ICLR), 2025/ \n
+/International Conference on Learning Representations (ICLR), 2025/ \n
 
 - [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-4/Learning-Gaussian-mixtures-using-the-WassersteinFisherRao-gradient-flow/10.1214/24-AOS2416.short Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow] \n
 *Yuling Yan*\*, Kaizheng Wang\*, Philippe Rigollet *(\*=equal contribution)* \n
@@ -71,7 +71,11 @@ arXiv preprint arXiv:2408.13430, under revision at /Journal of the American Stat
 
 - [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
-arXiv preprint arXiv:2304.07278, 2023 (accepted in part to /Conference on Learning Theory (COLT)/, 2024) \n
+arXiv preprint arXiv:2304.07278, 2023 (accepted in part to COLT 2024) \n
+
+- [https://arxiv.org/abs/2409.18959 O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
+Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
+arXiv preprint arXiv:2409.18959, 2024 (accepted in part to ICLR 2025) \n
 
 - [https://arxiv.org/abs/2401.13665 Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach] \n
 *Yuling Yan*, Martin J. Wainwright \n
