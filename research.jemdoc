@@ -7,7 +7,7 @@
 *Yuling Yan*, Weijie J.~Su, Jianqing Fan \n
 accepted to /Journal of the Royal Statistical Society: Series B/, 2025+ \n
 
-- [https://arxiv.org/abs/2409.18959 O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
+- [https://openreview.net/pdf?id=4EjdYiNRzE O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
 Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
 /International Conference on Learning Representations (ICLR), 2025/ \n
 
@@ -27,7 +27,7 @@ Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
 *Yuling Yan*, Gen Li, Yuxin Chen, Jianqing Fan \n
 /Operations Research, vol. 72, no.6, pp. 2430-2445, 2024/ \n
 
-- [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
+- [https://proceedings.mlr.press/v247/li24a Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
 /Conference on Learning Theory (COLT), 2024/ \n
 
@@ -71,11 +71,11 @@ arXiv preprint arXiv:2408.13430, under revision at /Journal of the American Stat
 
 - [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
 Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
-arXiv preprint arXiv:2304.07278, 2023 (accepted in part to COLT 2024) \n
+arXiv preprint arXiv:2304.07278, 2023 (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024]) \n
 
 - [https://arxiv.org/abs/2409.18959 O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
 Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
-arXiv preprint arXiv:2409.18959, 2024 (accepted in part to ICLR 2025) \n
+arXiv preprint arXiv:2409.18959, 2024 (accepted in part to [https://openreview.net/pdf?id=4EjdYiNRzE ICLR 2025]) \n
 
 - [https://arxiv.org/abs/2401.13665 Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach] \n
 *Yuling Yan*, Martin J. Wainwright \n
