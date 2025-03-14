@@ -29,7 +29,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 - *Inference and uncertainty quantification for low-rank models*
 -- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.pnas.org/content/pnas/116/46/22931.full.pdf "Inference and Uncertainty Quantification for Noisy Matrix Completion,"] /Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/
 -- {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/Inference-for-heteroskedastic-PCA-with-missing-data/10.1214/24-AOS2366.full "Inference for Heteroskedastic PCA with Missing Data,"] /Annals of Statistics, vol. 52, no. 2, pp. 729–756, 2024/
--- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
+-- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
 -- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://arxiv.org/abs/2412.09482 "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
 
 - *Mechanism design for improving the peer review*
@@ -43,8 +43,8 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 
 - *Statistical foundations of offline reinforcement learning*
 -- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 "The Efficacy of Pessimism in Asynchronous Q-learning,"] /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/
--- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0342 "Model-Based Reinforcement Learning for Offline Zero-Sum Markov Games,"] accepted to /Operations Research/, 2024
--- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"], accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024]
+-- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0342 "Model-Based Reinforcement Learning for Offline Zero-Sum Markov Games,"] /Operations Research, vol. 72, no. 6, pp. 2430-2445, 2024/
+-- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"], under major revision at /Mathematics of Operations Research, 2025/ (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024])
 
 
 == Selected awards
