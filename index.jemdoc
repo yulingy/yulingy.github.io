@@ -33,11 +33,12 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 -- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.pnas.org/content/pnas/116/46/22931.full.pdf "Inference and Uncertainty Quantification for Noisy Matrix Completion,"] /Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/
 -- {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/Inference-for-heteroskedastic-PCA-with-missing-data/10.1214/24-AOS2366.full "Inference for Heteroskedastic PCA with Missing Data,"] /Annals of Statistics, vol. 52, no. 2, pp. 729–756, 2024/
 -- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
+-- J.~Fan, {{<u>Y. Yan</u>}}, Y.~Zheng ($\alpha$-$\beta$),[https://arxiv.org/abs/2407.03616 "When Can Weak Latent Factors Be Statistically Inferred?"] under major revision at /Journal of Econometrics/, 2025 \n
 -- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://arxiv.org/abs/2412.09482 "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
 
 - *Mechanism design for improving the peer review*
 -- {{<u>Y. Yan</u>}}, W.~J.~Su, J.~Fan, [https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf025/8151400 "Isotonic Mechanism for Exponential Family Estimation in Machine Learning Peer Review,"] accepted to /Journal of the Royal Statistical Society: Series B/, 2025+
--- B.~Su, J.~Zhang, N.~Collina, {{<u>Y. Yan</u>}}, D.~Li, K.~Cho, J.~Fan, A.~Roth, W.~J.~Su [https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2510006 "The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML\/AI Peer Review"] accepted to /Journal of the American Statistical Association/ (as a discussion paper), 2025+
+-- B.~Su, J.~Zhang, N.~Collina, {{<u>Y. Yan</u>}}, D.~Li, K.~Cho, J.~Fan, A.~Roth, W.~J.~Su, [https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2510006 "The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML\/AI Peer Review"] accepted to /Journal of the American Statistical Association/ (as a discussion paper), 2025+
 
 - *Bridging convex and nonconvex optimization in low-rank estimation*
 -- Y.~Chen, C.~Chi, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://epubs.siam.org/doi/pdf/10.1137/19M1290000 "Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization,"] /SIAM Journal on Optimization, vol. 30, no. 4, pp. 3098-3121, 2020/
