@@ -3,7 +3,7 @@
 
 == Publication
 
-- [ O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
+- [https://arxiv.org/abs/2409.18959 O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions] \n
 Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
 accepted to /Journal of Machine Learning Research/ (conditioned on minor revisions), 2025+ \n
 accepted in part to International Conference on Learning Representations ([https://openreview.net/pdf?id=4EjdYiNRzE ICLR 2025]) \n
@@ -92,11 +92,15 @@ arXiv preprint arXiv:2412.09482, 2024 \n
 
 - [https://arxiv.org/abs/2501.18863 Adaptivity and Convergence of Probability Flow ODEs in Diffusion Generative Models] \n
 Jiaqi Tang, *Yuling Yan* \n
-arXiv preprint arXiv:2501.18863, 2025 \n
+arXiv preprint arXiv:2501.18863, under major revision at /Information and Inference: A Journal of the IMA/, 2025 \n
 
 - [https://arxiv.org/abs/2508.04883 Gaussian Mixture Layers for Neural Networks] \n
 Sinho Chewi, Philippe Rigollet, *Yuling Yan (alphabetical order)*\n
 arXiv preprint arXiv:2508.04883, 2025 \n
+
+- [https://arxiv.org/abs/2509.22633 Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback] \n
+Gen Li\*, *Yuling Yan*\* *(\*=equal contribution)* \n
+arXiv preprint arXiv:2509.22633, 2025 \n
 
 
 == Others
