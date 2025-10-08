@@ -8,7 +8,7 @@ Starting Aug 2024, I am an assistant professor in the [https://stat.wisc.edu Dep
 
 Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, working with Professor [https://math.mit.edu/~rigollet/ Philippe Rigollet] and Professor [https://wainwrigwork.github.io/ Martin Wainwright]. I obtained my Ph.D. degree at Princeton University in 2023, advised by Professor [https://yuxinchen2020.github.io/index.html Yuxin Chen] and Professor [https://orfe.princeton.edu/~jqfan/ Jianqing Fan]. I received my bachelor's degree from Peking University in 2018.\n
 
-*Research interests*: statistics, optimization, mathematics of data science, and their applications. \n
+*Research interests*: statistics, optimization, reinforcement learning, generative AI. \n
 
 *Contact*: \n
 6643 Morgridge Hall \n
@@ -20,39 +20,60 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 ~~~
 
 
-== Featured projects
-(\*=equal contribution, $\alpha$-$\beta$=alphabetical order)
+== Featured projects and selected publications
 
-- *Learning in the space of probability measures (with applications to generative AI and nonparametric statistics)*
--- {{<u>Y. Yan</u>}}\*, K.~Wang\*, P.~Rigollet, [https://arxiv.org/abs/2301.01766 "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow,"] /Annals of Statistics, vol. 52, no. 4, pp. 1774-1795, 2024/ 
--- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://openreview.net/pdf?id=SnTxbQSrW7 "Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models,"] /NeurIPS 2024/
--- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] accepted to /Journal of Machine Learning Research/, 2025 (accepted in part to [https://openreview.net/pdf?id=4EjdYiNRzE ICLR 2025])
+~~~
+{Learning in the space of probability measures}
 
-- *Inference and uncertainty quantification for low-rank models*
--- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.pnas.org/content/pnas/116/46/22931.full.pdf "Inference and Uncertainty Quantification for Noisy Matrix Completion,"] /Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/
--- {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/Inference-for-heteroskedastic-PCA-with-missing-data/10.1214/24-AOS2366.full "Inference for Heteroskedastic PCA with Missing Data,"] /Annals of Statistics, vol. 52, no. 2, pp. 729–756, 2024/
--- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
--- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://arxiv.org/abs/2412.09482 "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
+We develop and understand algorithms for diffusion generative AI and nonparametric statistics.
+- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://openreview.net/pdf?id=SnTxbQSrW7 "Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models,"] /NeurIPS 2024/
+- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] ICLR 2025
+- {{<u>Y. Yan</u>}}\*, K.~Wang\*, P.~Rigollet, [https://arxiv.org/abs/2301.01766 "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow,"] /Annals of Statistics, 2024/ 
+~~~
 
-- *Mechanism design for improving the peer review*
--- {{<u>Y. Yan</u>}}, W.~J.~Su, J.~Fan, [https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf025/8151400 "Isotonic Mechanism for Exponential Family Estimation in Machine Learning Peer Review,"] accepted to /Journal of the Royal Statistical Society: Series B/, 2025+
--- B.~Su, J.~Zhang, N.~Collina, {{<u>Y. Yan</u>}}, D.~Li, K.~Cho, J.~Fan, A.~Roth, W.~J.~Su, [https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2510006 "The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML\/AI Peer Review"] accepted to /Journal of the American Statistical Association/ (as a discussion paper), 2025+
+~~~
+{Reinforcement learning and LLM alignment}
 
-- *Bridging convex and nonconvex optimization in low-rank estimation*
--- Y.~Chen, C.~Chi, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://epubs.siam.org/doi/pdf/10.1137/19M1290000 "Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization,"] /SIAM Journal on Optimization, vol. 30, no. 4, pp. 3098-3121, 2020/
--- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Bridging-convex-and-nonconvex-optimization-in-robust-PCA--Noise/10.1214/21-AOS2066.full "Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data,"] /Annals of Statistics, vol. 49, no. 5, pp. 2948-2971, 2021/
--- Y.~Chen, J.~Fan, B.~Wang, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1956501 "Convex and Nonconvex Optimization Are Both Minimax-Optimal for Noisy Blind Deconvolution Under Random Designs,"] /Journal of the American Statistical Association, vol. 118, no. 542, pp. 858-868, 2023/
+We develop sample-efficient algorithms for offline RL, mutli-agent RL, reward-agnostic RL, and RLHF.
 
-- *Reinforcement learning (offline RL and RLHF)*
--- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 "The Efficacy of Pessimism in Asynchronous Q-learning,"] /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/
--- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0342 "Model-Based Reinforcement Learning for Offline Zero-Sum Markov Games,"] /Operations Research, vol. 72, no. 6, pp. 2430-2445, 2024/
--- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"], under major revision at /Mathematics of Operations Research, 2025/ (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024])
--- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2509.22633 "Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback,"] 2025
+- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 "The Efficacy of Pessimism in Asynchronous Q-learning,"] /IEEE Transactions on Information Theory, 2023/
+- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0342 "Model-Based Reinforcement Learning for Offline Zero-Sum Markov Games,"] /Operations Research, 2024/
+- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"] COLT 2024
+- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2509.22633 "Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback,"] 2025
+~~~
 
+~~~
+{Bridging convex and non-convex optimization}
+
+We settled the minimax optimality of convex relaxation for noisy matrix completion, robust PCA, and blind deconvolution.
+
+- Y.~Chen, C.~Chi, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://epubs.siam.org/doi/pdf/10.1137/19M1290000 "Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization,"] /SIAM Journal on Optimization, 2020/
+- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Bridging-convex-and-nonconvex-optimization-in-robust-PCA--Noise/10.1214/21-AOS2066.full "Bridging Convex and Nonconvex Optimization in Robust PCA: Noise, Outliers, and Missing Data,"] /Annals of Statistics, 2021/
+- Y.~Chen, J.~Fan, B.~Wang, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1956501 "Convex and Nonconvex Optimization Are Both Minimax-Optimal for Noisy Blind Deconvolution Under Random Designs,"] /Journal of the American Statistical Association, 2023/
+~~~
+
+~~~
+{Inference and uncertainty quantification for low-rank models}
+
+We developed optimal inferential algorithms for noisy matrix completion, PCA, and causal panel data.
+
+- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.pnas.org/content/pnas/116/46/22931.full.pdf "Inference and Uncertainty Quantification for Noisy Matrix Completion,"] /Proceedings of the National Academy of Sciences, 2019/
+- {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/Inference-for-heteroskedastic-PCA-with-missing-data/10.1214/24-AOS2366.full "Inference for Heteroskedastic PCA with Missing Data,"] /Annals of Statistics, 2024/
+- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach,"] 2024 
+~~~
+
+~~~
+{Mechanism design for improving the peer review}
+
+We design and analyze mechanisms to improve the efficiency of peer review in ML\/AI conferences.
+
+- {{<u>Y. Yan</u>}}, W.~J.~Su, J.~Fan, [https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkaf025/8151400 "Isotonic Mechanism for Exponential Family Estimation in Machine Learning Peer Review,"] /Journal of the Royal Statistical Society: Series B/, 2025
+- B.~Su, J.~Zhang, N.~Collina, {{<u>Y. Yan</u>}}, D.~Li, K.~Cho, J.~Fan, A.~Roth, W.~J.~Su, [https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2510006 "The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML\/AI Peer Review,"] Journal of the American Statistical Association (with discussion), 2025
+~~~
 
 == Selected awards
 - IMS Lawrence D. Brown Award, 2024
-- ICCM Best Thesis Award (Silver Medal, declined due to inability to attend the award ceremony), 2024
+- ICCM Best Thesis Award (declined due to inability to attend the award ceremony), 2024
 - Norbert Wiener Postdoctoral Fellowship, MIT, 2023
 - Charlotte Elizabeth Procter Honorific Fellowship, Princeton University, 2022
 - ASA Statistical Learning and Data Science Best Student Paper Award, 2022
