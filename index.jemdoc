@@ -4,17 +4,13 @@
 ~~~
 {}{img_left}{Photo/yuling_yan.jpeg}{alt text}{240}{240}
 
-Starting Aug 2024, I am an assistant professor in the [https://stat.wisc.edu Department of Statistics] at University of Wisconsin-Madison.
+I am a quantitative analyst at the D. E. Shaw Group in New York. \n
 
-Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, working with Professor [https://math.mit.edu/~rigollet/ Philippe Rigollet] and Professor [https://wainwrigwork.github.io/ Martin Wainwright]. I obtained my Ph.D. degree at Princeton University in 2023, advised by Professor [https://yuxinchen2020.github.io/index.html Yuxin Chen] and Professor [https://orfe.princeton.edu/~jqfan/ Jianqing Fan]. I received my bachelor's degree from Peking University in 2018.\n
+Before moving to quantitative finance, I was an assistant professor in the Department of Statistics at University of Wisconsin-Madison from 2024 to 2025. Prior to that, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, working with Professor [https://math.mit.edu/~rigollet/ Philippe Rigollet] and Professor [https://wainwrigwork.github.io/ Martin Wainwright]. I obtained my Ph.D. degree at Princeton University in 2023, advised by Professor [https://yuxinchen2020.github.io/index.html Yuxin Chen] and Professor [https://orfe.princeton.edu/~jqfan/ Jianqing Fan]. I received my bachelor's degree from Peking University in 2018.\n
 
-*Research interests*: statistics, optimization, mathematics of data science, and their applications. \n
+*Research interests*: statistics, optimization, reinforcement learning, diffusion models. \n
 
-*Contact*: \n
-6643 Morgridge Hall \n
-1205 University Ave, Madison, WI 53706 \n
-
-*E-mail*: /yuling.yan/ \[@\] wisc \[DOT\] edu
+*E-mail*: yulingy at alumni dot princeton dot edu
 
 \[[https://scholar.google.com/citations?user=yYE8Xo8AAAAJ&hl=en Google Scholar]\] \[[https://www.linkedin.com/in/yuling-yan-349029178/ LinkedIn]\]
 ~~~
@@ -27,7 +23,7 @@ Previously, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, 
 - *Learning in the space of probability measures (with applications to generative AI)*
 -- {{<u>Y. Yan</u>}}\*, K.~Wang\*, P.~Rigollet, [https://arxiv.org/abs/2301.01766 "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow,"] /Annals of Statistics, vol. 52, no. 4, pp. 1774-1795, 2024/ 
 -- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://openreview.net/pdf?id=SnTxbQSrW7 "Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models,"] /NeurIPS 2024/
--- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] accepted to /Journal of Machine Learning Research/, 2025 (accepted in part to [https://openreview.net/pdf?id=4EjdYiNRzE ICLR 2025])
+-- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2409.18959 "O(d\/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions,"] /ICLR 2025/
 
 - *Reinforcement learning (offline RL and RLHF)*
 -- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 "The Efficacy of Pessimism in Asynchronous Q-learning,"] /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/
