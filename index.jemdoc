@@ -6,7 +6,7 @@
 
 I am a quantitative researcher at the D. E. Shaw Group in New York. \n
 
-Before moving to quantitative finance, I was an assistant professor in the Department of Statistics at University of Wisconsin-Madison from 2024 to 2025. Prior to that, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, working with Professor [https://math.mit.edu/~rigollet/ Philippe Rigollet] and Professor [https://wainwrigwork.github.io/ Martin Wainwright]. I obtained my Ph.D. degree at Princeton University in 2023, advised by Professor [https://yuxinchen2020.github.io/index.html Yuxin Chen] and Professor [https://orfe.princeton.edu/~jqfan/ Jianqing Fan]. I received my bachelor's degree from Peking University in 2018.\n
+Previously, I was an assistant professor in the Department of Statistics at University of Wisconsin-Madison from 2024 to 2025. Prior to that, I spent one year as a Norbert Wiener Postdoctoral Associate at MIT, working with Professor [https://math.mit.edu/~rigollet/ Philippe Rigollet] and Professor [https://wainwrigwork.github.io/ Martin Wainwright]. I obtained my Ph.D. degree at Princeton University in 2023, advised by Professor [https://yuxinchen2020.github.io/index.html Yuxin Chen] and Professor [https://orfe.princeton.edu/~jqfan/ Jianqing Fan]. I received my bachelor's degree from Peking University in 2018.\n
 
 *Research interests*: statistics, optimization, reinforcement learning, diffusion models. \n
 
@@ -34,8 +34,8 @@ Before moving to quantitative finance, I was an assistant professor in the Depar
 - *Inference and uncertainty quantification for low-rank models*
 -- Y.~Chen, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://www.pnas.org/content/pnas/116/46/22931.full.pdf "Inference and Uncertainty Quantification for Noisy Matrix Completion,"] /Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/
 -- {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/Inference-for-heteroskedastic-PCA-with-missing-data/10.1214/24-AOS2366.full "Inference for Heteroskedastic PCA with Missing Data,"] /Annals of Statistics, vol. 52, no. 2, pp. 729–756, 2024/
--- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach,"] under revision at /Journal of the American Statistical Association/, 2026+ 
--- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://arxiv.org/abs/2412.09482 "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] 2024
+-- {{<u>Y. Yan</u>}}, M.~J.~Wainwright, [https://arxiv.org/abs/2401.13665 "Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach,"] under revision at /Journal of the American Statistical Association/, 2026
+-- E.~Xia\*, {{<u>Y. Yan</u>}}\*, M.~J.~Wainwright, [https://arxiv.org/abs/2412.09482 "Inference under Staggered Adoption: Case Study of the Affordable Care Act,"] under revision at /Journal of the American Statistical Association/, 2026
 
 - *Bridging convex and nonconvex optimization in low-rank estimation*
 -- Y.~Chen, C.~Chi, J.~Fan, C.~Ma, {{<u>Y. Yan</u>}} ($\alpha$-$\beta$), [https://epubs.siam.org/doi/pdf/10.1137/19M1290000 "Noisy Matrix Completion: Understanding Statistical Guarantees for Convex Relaxation via Nonconvex Optimization,"] /SIAM Journal on Optimization, vol. 30, no. 4, pp. 3098-3121, 2020/
