@@ -1,7 +1,18 @@
 # jemdoc: menu{menu}{research.html}
 = Papers
 
+== Monograph
+
+- [https://arxiv.org/abs/2610.41903 Statistical Foundations of Reinforcement Learning: A Non-Asymptotic Perspective] \n
+Yuxin Chen, Yuejie Chi, Jianqing Fan, Gen Li, Yuting Wei, *Yuling Yan* \n
+arXiv preprint arXiv:2610.41903, 2026 \n
+
 == Publication
+
+- [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
+Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
+/Mathematics of Operations Research/, 2026 \n
+accepted in part to Conference on Learning Theory ([https://proceedings.mlr.press/v247/li24a COLT 2024]) \n
 
 - [https://arxiv.org/abs/2501.18863 Adaptivity and Convergence of Probability Flow ODEs in Diffusion Generative Models] \n
 Jiaqi Tang, *Yuling Yan* \n
@@ -77,10 +88,6 @@ Yuxin Chen, Jianqing Fan, Cong Ma, *Yuling Yan (alphabetical order)* \n
 /Proceedings of the National Academy of Sciences, vol. 116, no. 46, pp. 22931-22937, 2019/ \n
 
 == Preprints
-
-- [https://arxiv.org/abs/2304.07278 Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning] \n
-Gen Li, *Yuling Yan*, Yuxin Chen, Jianqing Fan \n
-arXiv preprint arXiv:2304.07278, under revision at /Mathematics of Operations Research/, 2025 (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024]) \n
 
 - [https://arxiv.org/abs/2401.13665 Entrywise Inference for Missing Panel Data: A Simple and Instance-Optimal Approach] \n
 *Yuling Yan*, Martin J. Wainwright \n

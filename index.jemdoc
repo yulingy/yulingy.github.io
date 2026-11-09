@@ -15,10 +15,12 @@ Previously, I was an assistant professor in the Department of Statistics at Univ
 \[[https://scholar.google.com/citations?user=yYE8Xo8AAAAJ&hl=en Google Scholar]\] \[[https://www.linkedin.com/in/yuling-yan-349029178/ LinkedIn]\]
 ~~~
 
+== Monograph
+- Y.~Chen, Y.~Chi, J.~Fan, G.~Li, Y.~Wei, {{<u>Y. Yan</u>}}, [https://arxiv.org/abs/2610.41903  "Statistical Foundations of Reinforcement Learning: A Non-Asymptotic Perspective,"] 2026
+
 
 == Featured projects
 (\*=equal contribution, $\alpha$-$\beta$=alphabetical order)
-
 
 - *Learning in the space of probability measures (with applications to generative AI)*
 -- {{<u>Y. Yan</u>}}\*, K.~Wang\*, P.~Rigollet, [https://arxiv.org/abs/2301.01766 "Learning Gaussian Mixtures Using the Wasserstein-Fisher-Rao Gradient Flow,"] /Annals of Statistics, vol. 52, no. 4, pp. 1774-1795, 2024/ 
@@ -28,7 +30,7 @@ Previously, I was an assistant professor in the Department of Statistics at Univ
 - *Reinforcement learning (offline RL and RLHF)*
 -- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196488 "The Efficacy of Pessimism in Asynchronous Q-learning,"] /IEEE Transactions on Information Theory, vol. 69, no. 11, pp. 7185-7219, 2023/
 -- {{<u>Y. Yan</u>}}, G.~Li, Y.~Chen, J.~Fan, [https://pubsonline.informs.org/doi/full/10.1287/opre.2022.0342 "Model-Based Reinforcement Learning for Offline Zero-Sum Markov Games,"] /Operations Research, vol. 72, no. 6, pp. 2430-2445, 2024/
--- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"], under major revision at /Mathematics of Operations Research, 2025/ (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024])
+-- G.~Li, {{<u>Y. Yan</u>}}, Y.~Chen, J.~Fan, [https://arxiv.org/abs/2304.07278 "Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning,"], accepted to /Mathematics of Operations Research, 2026/ (accepted in part to [https://proceedings.mlr.press/v247/li24a COLT 2024])
 -- G.~Li\*, {{<u>Y. Yan</u>}}\*, [https://arxiv.org/abs/2509.22633 "Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback,"] 2025
 
 - *Inference and uncertainty quantification for low-rank models*
